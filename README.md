@@ -14,7 +14,7 @@ This function  takes start and end dates and uses the datetime class to to gener
 
 create_url_list_with_date_permalinks
 
-This function takes a list of permalinks (for example a list of dates) with which to concatenate to a url and output as a list. This list of concatenated urls then provide the bases to iteratively request urls for scraping multiple pages. 
+This function takes a list of permalinks (for example a list of dates) and a url with which to concatenate the url and output as a list. This list of concatenated urls then provide the bases to iteratively request urls for scraping multiple pages. 
 
 cookies_bypass
 
