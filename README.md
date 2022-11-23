@@ -22,9 +22,7 @@ This function takes email address and passowrd as parameters and iteratively req
 
 This function takes x,y coordinates as parameters in order to scroll to a certain location on the page. To achive this, the execute_script function of the driver class is used. 
 
-`click_notifications`
 
-This method uses ChromeOptions function of the webdriver class to specify to click not to allow notifications. 
 
 `maximise_window(self)`
 
@@ -32,4 +30,4 @@ This method maximised the window, which may allow .click method to access otherw
 
 `bypass_initial_popup(self)`
 
-Bypasses a popup which can appear before the website is accessed
+Bypasses a popup which can appear before the website is accessed. This method uses ChromeOptions function of the webdriver class to specify to click not to allow notifications. 
