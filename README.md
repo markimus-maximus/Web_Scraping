@@ -1,6 +1,6 @@
 # Web_Scraping
 
-This file contains a class for web scraping. Within this class are functions for web scraping tasks with Selenium, such as scrolling web pages, logging into a website, diverting cookies, closing push notification message. Additionally, there is a function for creating a range of dates as strings with which to concatenate to a url as a permalink. This way, you can generate a list of urls relating to dates of your choosing. More spcific information is in the below function list. 
+This file contains a class for web scraping. Within this class are functions for web scraping tasks with Selenium, such as scrolling web pages, logging into a website, diverting cookies, closing push notification message. Additionally, there is a function for creating a range of dates as strings with which to concatenate to a url as a permalink. This way, it is possible to generate a list of urls within given date ranges. More spcific information is in the below function list. 
 
 
 Function list:
